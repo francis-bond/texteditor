@@ -10,7 +10,7 @@ For: UT Coding Bootcamp
 
 Published: GitHub and Heroku
 
-Built with: Node.js, Express, Webpack, Service-worker, Javascript, CSS 
+Built with: Node.js, Express, Webpack, Service-worker, Javascript, CSS
 
 
 ## Summary
@@ -18,5 +18,9 @@ Built with: Node.js, Express, Webpack, Service-worker, Javascript, CSS
 
 This application is a Progressive Web App also known as a pwa. The application allows a user to edit text in their browser. It is installable their system for use without a network connection.
 
+Link to deployed application
+https://git.heroku.com/texteditorpwa01.git
+
 ## Development
 
+The development of this project required us to implement the building blocks of a pwa. 
