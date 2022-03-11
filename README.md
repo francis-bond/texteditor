@@ -10,7 +10,7 @@ For: UT Coding Bootcamp
 
 Published: GitHub and Heroku
 
-Built with: Node.js, Express, Webpack, Service-worker, Javascript, CSS, 
+Built with: Node.js, Express, Webpack, Service-worker, Javascript, CSS 
 
 
 ## Summary
